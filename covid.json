@@ -1,0 +1,306 @@
+{
+    "data": {
+        "totalSamplesTested": "1684,305",
+        "totalConfirmedCases": 161074,
+        "totalActiveCases": 12984,
+        "discharged": 146072,
+        "death": 2018,
+        "states": [{
+                "state": "Lagos",
+                "_id": "EiWV1l0zV",
+                "confirmedCases": 57081,
+                "casesOnAdmission": 341,
+                "discharged": 56315,
+                "death": 425
+            },
+            {
+                "state": "FCT",
+                "_id": "i0gfYwf4Dq",
+                "confirmedCases": 19490,
+                "casesOnAdmission": 3713,
+                "discharged": 15621,
+                "death": 156
+            },
+            {
+                "state": "Plateau",
+                "_id": "pZr8E-MMwL",
+                "confirmedCases": 8995,
+                "casesOnAdmission": 78,
+                "discharged": 8860,
+                "death": 57
+            },
+            {
+                "state": "Kaduna",
+                "_id": "48yOpFaYJd",
+                "confirmedCases": 8825,
+                "casesOnAdmission": 130,
+                "discharged": 8630,
+                "death": 65
+            },
+            {
+                "state": "Rivers",
+                "_id": "VErJsC5iqX",
+                "confirmedCases": 6831,
+                "casesOnAdmission": 204,
+                "discharged": 6529,
+                "death": 98
+            },
+            {
+                "state": "Oyo",
+                "_id": "AeCz7Z3-ED",
+                "confirmedCases": 6810,
+                "casesOnAdmission": 507,
+                "discharged": 6187,
+                "death": 116
+            },
+            {
+                "state": "Edo",
+                "_id": "WSdbtri0WW",
+                "confirmedCases": 4847,
+                "casesOnAdmission": 169,
+                "discharged": 4493,
+                "death": 185
+            },
+            {
+                "state": "Ogun",
+                "_id": "EfqZI_gMRL",
+                "confirmedCases": 4573,
+                "casesOnAdmission": 217,
+                "discharged": 4307,
+                "death": 49
+            },
+            {
+                "state": "Kano",
+                "_id": "0U_0JtaQJb",
+                "confirmedCases": 3878,
+                "casesOnAdmission": 38,
+                "discharged": 3731,
+                "death": 109
+            },
+            {
+                "state": "Ondo",
+                "_id": "y2mRYMDuDq",
+                "confirmedCases": 3124,
+                "casesOnAdmission": 983,
+                "discharged": 2080,
+                "death": 61
+            },
+            {
+                "state": "Kwara",
+                "_id": "zE2Szqzozt",
+                "confirmedCases": 3042,
+                "casesOnAdmission": 282,
+                "discharged": 2705,
+                "death": 55
+            },
+            {
+                "state": "Delta",
+                "_id": "yDhVrXbsW_",
+                "confirmedCases": 2597,
+                "casesOnAdmission": 782,
+                "discharged": 1744,
+                "death": 71
+            },
+            {
+                "state": "Osun",
+                "_id": "fMNRVTRWp_",
+                "confirmedCases": 2496,
+                "casesOnAdmission": 103,
+                "discharged": 2341,
+                "death": 52
+            },
+            {
+                "state": "Nasarawa",
+                "_id": "DRSHBnCF7H",
+                "confirmedCases": 2311,
+                "casesOnAdmission": 1925,
+                "discharged": 373,
+                "death": 13
+            },
+            {
+                "state": "Enugu",
+                "_id": "4ogZOl35s1",
+                "confirmedCases": 2221,
+                "casesOnAdmission": 327,
+                "discharged": 1865,
+                "death": 29
+            },
+            {
+                "state": "Katsina",
+                "_id": "l_5ZNKUXow",
+                "confirmedCases": 2073,
+                "casesOnAdmission": 9,
+                "discharged": 2030,
+                "death": 34
+            },
+            {
+                "state": "Gombe",
+                "_id": "nS4k85mCKJM",
+                "confirmedCases": 2024,
+                "casesOnAdmission": 9,
+                "discharged": 1971,
+                "death": 44
+            },
+            {
+                "state": "Ebonyi",
+                "_id": "voAbC0UWdv8",
+                "confirmedCases": 1973,
+                "casesOnAdmission": 167,
+                "discharged": 1774,
+                "death": 32
+            },
+            {
+                "state": "Anambra",
+                "_id": "wTxBOAThNl0",
+                "confirmedCases": 1909,
+                "casesOnAdmission": 64,
+                "discharged": 1826,
+                "death": 19
+            },
+            {
+                "state": "AkwaIbom",
+                "_id": "67Jwv-T7Ql0",
+                "confirmedCases": 1721,
+                "casesOnAdmission": 478,
+                "discharged": 1229,
+                "death": 14
+            },
+            {
+                "state": "Abia",
+                "_id": "d4hkQYspu_2",
+                "confirmedCases": 1631,
+                "casesOnAdmission": 22,
+                "discharged": 1588,
+                "death": 21
+            },
+            {
+                "state": "Imo",
+                "_id": "tfIFdB84QTY",
+                "confirmedCases": 1619,
+                "casesOnAdmission": 151,
+                "discharged": 1432,
+                "death": 36
+            },
+            {
+                "state": "Bauchi",
+                "_id": "BGVSpRczhOS",
+                "confirmedCases": 1482,
+                "casesOnAdmission": 198,
+                "discharged": 1267,
+                "death": 17
+            },
+            {
+                "state": "Borno",
+                "_id": "pb6evE_yI-Q",
+                "confirmedCases": 1321,
+                "casesOnAdmission": 83,
+                "discharged": 1200,
+                "death": 38
+            },
+            {
+                "state": "Benue",
+                "_id": "CIXfejhAWkm",
+                "confirmedCases": 1188,
+                "casesOnAdmission": 575,
+                "discharged": 591,
+                "death": 22
+            },
+            {
+                "state": "Adamawa",
+                "_id": "30y-f0qOm1J",
+                "confirmedCases": 942,
+                "casesOnAdmission": 641,
+                "discharged": 270,
+                "death": 31
+            },
+            {
+                "state": "Niger",
+                "_id": "jKGLmxDR2sr",
+                "confirmedCases": 928,
+                "casesOnAdmission": 494,
+                "discharged": 417,
+                "death": 17
+            },
+            {
+                "state": "Taraba",
+                "_id": "vH7PJc5g3g4",
+                "confirmedCases": 881,
+                "casesOnAdmission": 55,
+                "discharged": 804,
+                "death": 22
+            },
+            {
+                "state": "Ekiti",
+                "_id": "2agbhXqpEqg",
+                "confirmedCases": 853,
+                "casesOnAdmission": 70,
+                "discharged": 773,
+                "death": 10
+            },
+            {
+                "state": "Bayelsa",
+                "_id": "j2B8bezm5hB",
+                "confirmedCases": 828,
+                "casesOnAdmission": 37,
+                "discharged": 765,
+                "death": 26
+            },
+            {
+                "state": "Sokoto",
+                "_id": "aVvWkpPYzMc",
+                "confirmedCases": 770,
+                "casesOnAdmission": 1,
+                "discharged": 741,
+                "death": 28
+            },
+            {
+                "state": "Jigawa",
+                "_id": "itwgirwX9yM",
+                "confirmedCases": 501,
+                "casesOnAdmission": 5,
+                "discharged": 480,
+                "death": 16
+            },
+            {
+                "state": "Kebbi",
+                "_id": "IAe9loZ6V8S",
+                "confirmedCases": 427,
+                "casesOnAdmission": 90,
+                "discharged": 323,
+                "death": 14
+            },
+            {
+                "state": "CrossRiver",
+                "_id": "AGUwwjVtT0m",
+                "confirmedCases": 353,
+                "casesOnAdmission": 9,
+                "discharged": 327,
+                "death": 17
+            },
+            {
+                "state": "Yobe",
+                "_id": "_YMA5m7302l",
+                "confirmedCases": 293,
+                "casesOnAdmission": 25,
+                "discharged": 259,
+                "death": 9
+            },
+            {
+                "state": "Zamfara",
+                "_id": "6xVscvLT0_y",
+                "confirmedCases": 231,
+                "casesOnAdmission": 2,
+                "discharged": 221,
+                "death": 8
+            },
+            {
+                "state": "Kogi",
+                "_id": "Qhk0FungLx5",
+                "confirmedCases": 5,
+                "casesOnAdmission": 0,
+                "discharged": 3,
+                "death": 2
+            }
+        ]
+    }
+}
